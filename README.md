@@ -112,7 +112,7 @@ The Random Forest and SVM classifiers achieved the best performance with:
 
 # 🗂️ Folder Structure
 
-heart-disease-prediction/
+heart-disease-prediction/  
 │
 ├── data/                    # Dataset files  
 ├── notebooks/               # Jupyter Notebooks with code  
