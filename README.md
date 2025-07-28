@@ -9,7 +9,7 @@ To build and evaluate classification models that can accurately predict the like
 # 📊 Dataset
 The dataset used in this project is based on the Cleveland Heart Disease dataset, one of the most commonly used datasets in medical machine learning.
 
-** Features include:**
+**Features include:**
 
 - Age
 
@@ -38,7 +38,7 @@ The dataset used in this project is based on the Cleveland Heart Disease dataset
 - Thalassemia (thal)
 
 
-** Target variable: **
+**Target variable:**
 
 - 0: No heart disease
 
@@ -47,11 +47,11 @@ The dataset used in this project is based on the Cleveland Heart Disease dataset
 
 # 🧠 Machine Learning Workflow
 
-1. Data Collection
+**1. Data Collection**
 
-2. Exploratory Data Analysis (EDA)
+**2. Exploratory Data Analysis (EDA)**
 
-3. Data Preprocessing
+**3. Data Preprocessing**
 
     - Handling missing values
 
@@ -59,9 +59,9 @@ The dataset used in this project is based on the Cleveland Heart Disease dataset
 
     - Encoding categorical variables
 
-4. Feature Selection
+**4. Feature Selection**
 
-5. Model Building
+**5. Model Building**
 
     - Logistic Regression
 
@@ -73,17 +73,17 @@ The dataset used in this project is based on the Cleveland Heart Disease dataset
 
     - Support Vector Machine (SVM)
 
-6. Model Evaluation
+**6. Model Evaluation**
 
     - Accuracy, Precision, Recall, F1-Score
 
     - ROC-AUC Curve
 
-7. Hyperparameter Tuning
+**7. Hyperparameter Tuning**
 
     - GridSearchCV, Cross-Validation
 
-8. Deployment-ready Notebook
+**8. Deployment-ready Notebook**
 
 
 # 🔍 Key Insights
