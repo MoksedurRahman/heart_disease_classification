@@ -3,10 +3,10 @@ Heart Disease Classification: Predicting Cardiovascular Risk with Machine Learni
 
 This project focuses on developing a machine learning model to classify the presence of heart disease based on patient health metrics. Cardiovascular disease remains one of the leading causes of death worldwide, and early prediction plays a crucial role in saving lives.
 
-📌 Objective
+# 📌 Objective
 To build and evaluate classification models that can accurately predict the likelihood of heart disease using structured health data, enabling better preventive healthcare decisions.
 
-📊 Dataset
+# 📊 Dataset
 The dataset used in this project is based on the Cleveland Heart Disease dataset, one of the most commonly used datasets in medical machine learning.
 
 # Features include:
@@ -114,12 +114,12 @@ The Random Forest and SVM classifiers achieved the best performance with:
 
 heart-disease-prediction/
 │
-├── data/                    # Dataset files
-├── notebooks/               # Jupyter Notebooks with code
-├── models/                  # Saved model files (e.g. .pkl)
-├── reports/                 # EDA and model performance reports
-├── requirements.txt         # Python dependencies
-└── README.md                # Project overview
+├── data/                    # Dataset files  
+├── notebooks/               # Jupyter Notebooks with code  
+├── models/                  # Saved model files (e.g. .pkl)  
+├── reports/                 # EDA and model performance reports  
+├── requirements.txt         # Python dependencies  
+└── README.md                # Project overview  
 
 
 # 📚 References
